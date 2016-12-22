@@ -21,7 +21,7 @@ div.name {
 h1 {
 	font-family: 'Montserrat', sans-serif;
 	color: #3A9AD1;
-	font-size: 36px;
+	font-size: 34px;
 	text-align: center;
 	padding-top: 50px;
 	display: inline;
@@ -57,7 +57,7 @@ li a:hover {
 }
 
 
-div.intro {
+div.content {
 	width: 600px;
 	margin: 0 auto;
 	padding-top: 50px;
@@ -98,5 +98,5 @@ footer {
 	font-size: 10px;
 	text-align: center;
 	color: #D0D3D8;
-	padding-top: 60px;
+	padding-top: 30px;
 }
