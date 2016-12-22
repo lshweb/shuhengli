@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header {
+	width: 1200px;
+	margin: auto;
+	padding-top: 50px;
+}
+
+body {
+	width: 1200px;
+	margin: auto;
+	background-color: FFF8E6;
+}
+
+div.name {
+	width: 350px;
+	margin: 35px auto;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	color: #3A9AD1;
+	font-size: 36px;
+	text-align: center;
+	padding-top: 50px;
+	display: inline;
+}
+
+div.nav {
+	width: 700px;
+	margin: 0 auto;
+}
+
+ul {
+	font-family: 'Source+Sans+Pro', sans-serif;
+	font-size: 14px;
+    list-style-type: none;
+	margin: auto;
+}
+
+li {
+    float: left;
+}
+
+li a {
+	display: block;
+	width: 160px;
+	color: gray;
+	text-align: center;
+    text-decoration: none;
+	transition: 0.3s;
+}
+
+li a:hover {
+	color: orange;
+}
+
+
+div.intro {
+	width: 600px;
+	margin: 0 auto;
+	padding-top: 50px;
+	display: block;
+}
+
+article {
+	font-family: 'Source+Sans+Pro', sans-serif;
+	font-size: 14px;
+	color: #37404B;
+	line-height: 160%;
+}
+
+article p{
+	padding-bottom: 10px;
+}
+
+a.nonblock {
+	color: #3A9AD1;
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+#zho {
+	color: #AEC6D8;
+}
+
+#zho:hover {
+	color: #3A9AD1;
+}
+
+p.bold{
+	font-weight: 600;
+}
+	
+footer {
+	font-family: 'Lato', sans-serif;
+	font-size: 10px;
+	text-align: center;
+	color: #D0D3D8;
+	padding-top: 60px;
+}
